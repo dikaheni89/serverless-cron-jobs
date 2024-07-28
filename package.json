@@ -1,13 +1,24 @@
 {
   "name": "serverless-cron-jobs",
   "version": "1.0.0",
-  "description": "",
+  "description": "A library to schedule cron jobs and fetch data from APIs using Node.js",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "test": "jest",
     "prepublishOnly": "npm run build"
   },
+  "keywords": [
+    "cron",
+    "serverless",
+    "jobs",
+    "scheduler",
+    "api",
+    "fetch",
+    "nodejs",
+    "automation",
+    "cron-jobs"
+  ],
   "author": "Handika",
   "license": "MIT",
   "repository": {
