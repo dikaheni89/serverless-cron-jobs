@@ -43,7 +43,6 @@ const utils_1 = require("./utils");
  * Menjadwalkan sebuah cron job.
  * @param cronExpression Ekspresi cron untuk menentukan jadwal.
  * @param job Fungsi yang akan dijalankan pada jadwal yang ditentukan.
- * @param url
  */
 const scheduleJob = (cronExpression, job, url) => {
     if (!(0, utils_1.isValidCronExpression)(cronExpression)) {

@@ -1,6 +1,6 @@
 {
   "name": "serverless-cron-jobs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A library to schedule cron jobs and fetch data from APIs using Node.js",
   "main": "dist/index.js",
   "scripts": {
