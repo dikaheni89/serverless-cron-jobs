@@ -10,6 +10,10 @@
   },
   "author": "Handika",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dikaheni89/serverless-cron-jobs.git"
+  },
   "dependencies": {
     "node-cron": "^3.0.3"
   },
