@@ -1,6 +1,6 @@
 {
   "name": "serverless-cron-jobs",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A library to schedule cron jobs and fetch data from APIs using Node.js",
   "main": "dist/index.js",
   "scripts": {
@@ -24,6 +24,9 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:dikaheni89/serverless-cron-jobs.git"
+  },
+  "links": {
+    "runkit": "https://runkit.com/dikaheni89/serverless-cron-jobs-library"
   },
   "dependencies": {
     "node-cron": "^3.0.3"
